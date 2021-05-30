@@ -1,0 +1,15 @@
+Let computer asks the ser for  height between 1 & 8.
+
+If the user input were less than 1 or greater than 8, then go back to line number 1.
+
+Let an integer be 1 and calls it (i).
+
+Let and integer be 1 and calls it (j).
+
+make a loop under another loop
+
+in interior loop, lets print hashtags in condition that j is less than the input number and increase j by 1, then go back to the main loop
+
+in the main loop print an empty line which directs to another line. and increase i by 1.
+
+excute the loop after the two integers were equal to the input number.
